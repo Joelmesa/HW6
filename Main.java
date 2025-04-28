@@ -1,6 +1,6 @@
 
 /**********************************************************
- *
+ *Joel Mesa
  * Homework # 6 (Programming Assignment). This assignment has several parts.
  *
  * The first part requires the implementation of the methods add() and contains()
